@@ -1,0 +1,1 @@
+include ':app', ':frameworklib', ':tree-annotations', ':tree-compiler'
